@@ -13,5 +13,6 @@ logger = logging.getLogger("root")
 print "hello"
 logger.info("count:" + "hello" + " status:" + "world")
 logger.info("count:" + "hello" + " status:" + "world")
+logger.info("count:" + "hello" + " status:" + "world")
 print "world"
 exit()
