@@ -12,5 +12,4 @@ logger = logging.getLogger("root")
 
 print "hello"
 logger.info("count:" + "hello" + " status:" + "world")
-exit()
 print "world"
